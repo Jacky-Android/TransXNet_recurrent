@@ -5,3 +5,5 @@ paper：TransXNet: Learning Both Global and Local Dynamics with a Dual Dynamic T
 paper_url：[paper](https://arxiv.org/abs/2310.19380)
 
 # Update Input-dependent Depthwise Convolution (IDConv)
+
+# Update OSRA attention
