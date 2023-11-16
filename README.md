@@ -10,3 +10,7 @@ paper_url：[paper](https://arxiv.org/abs/2310.19380)
 
 # Update OSRA attention
 ![image](https://github.com/Jacky-Android/TransXNet_recurrent/assets/55181594/2c65ac45-7a57-4881-8889-b6ffb4da93d0)
+
+# Update Squeezed Token Enhancer (STE)
+![image](https://github.com/Jacky-Android/TransXNet_recurrent/assets/55181594/fcf418c7-8d16-424b-8f47-d6827683250f)
+
